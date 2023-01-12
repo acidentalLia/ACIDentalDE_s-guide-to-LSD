@@ -1,7 +1,7 @@
-# ACIDentalDE_s-guide-to-LSD
+# ACIDentalDE_s-guide-to-LSD ◻️
 A practical guide for contending with the effects of lsd
 
-\\\>Intro
+💠 Intro 
 
 After the dug war, a lot of culture guiding individuals,
 got lost.
@@ -14,7 +14,7 @@ of tools and stabalizing patterns, like they would any other program,
 from a package repository. 
 
 
-\\>Declarations and definitions.
+ 💠 Declarations and definitions.
 
 - Your whole will be refferenced as = System
 
@@ -23,36 +23,36 @@ from a package repository.
 - Stabalizing Pattern = A pattern of behavior, which stabalizes the user, while and after tripping
 
 
-\\\>Basic Tools
+ 💠 Basic Tools
 
- - A.) Breathing
-
-   \\>
-
- - B.) Falling
+ - A.) Breathing 💨
 
    \\>
 
- - C.) Pattern setting
+ - B.) Falling 💧
+
+   \\>
+
+ - C.) Pattern setting 🎇
 
    \\>
 
 
-\\\>Basic Stabalizing Patterns
+ 💠 Basic Stabalizing Patterns
 
- - A.) Sport
-
-   \\>
-
- - B.) Food and Water
+ - A.) Sport 🏃‍♂️
 
    \\>
 
- - C.) Routines
+ - B.) Food and Water 🥤
 
    \\>
 
-\\\>Outro
+ - C.) Routines 🐕‍🦺
+
+   \\>
+
+ 💠 Outro
 
 In the SubBranches/Folders you will find additional tools and techniques. 
 
