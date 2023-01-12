@@ -1,7 +1,7 @@
 # ACIDentalDE_s-guide-to-LSD
 A practical guide for contending with the effects of lsd
 
-\\>Intro
+\\\>Intro
 
 After the dug war, a lot of culture guiding individuals,
 got lost.
@@ -16,6 +16,26 @@ from a package repository.
 
 \\>Declarations and definitions.
 
--Your whole will be refferenced as = System
+- Your whole will be refferenced as = System
 
--Your patterns of behavior and daily life as = Pattern/s
+- Your patterns of behavior and daily life as = Pattern/s
+
+- Stabalizing Pattern = A pattern of behavior, which stabalizes the user, while and after tripping
+
+
+\\\>Basic Tools
+
+A.) Breathing
+
+B.) Falling
+
+C.) Pattern setting
+
+
+\\\>Basic Stabalizing Patterns
+
+A.) Sport
+
+B.) Food and Water
+
+C.) Routines
