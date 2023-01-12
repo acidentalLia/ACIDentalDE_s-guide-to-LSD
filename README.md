@@ -1,7 +1,8 @@
 # ACIDentalDE_s-guide-to-LSD
 A practical guide for contending with the effects of lsd
 
-\>Intro
+\\>Intro
+
 After the dug war, a lot of culture guiding individuals,
 got lost.
 
@@ -11,3 +12,10 @@ a guiding framework, within the paradigm of systems and information.
 So that the Individual is able to, get the social data packages,
 of tools and stabalizing patterns, like they would any other program,
 from a package repository. 
+
+
+\\>Declarations and definitions.
+
+-Your whole will be refferenced as = System
+
+-Your patterns of behavior and daily life as = Pattern/s
