@@ -25,17 +25,17 @@ from a package repository.
 
 \\\>Basic Tools
 
-A.) Breathing
+ - A.) Breathing
 
-B.) Falling
+ - B.) Falling
 
-C.) Pattern setting
+ - C.) Pattern setting
 
 
 \\\>Basic Stabalizing Patterns
 
-A.) Sport
+ - A.) Sport
 
-B.) Food and Water
+ - B.) Food and Water
 
-C.) Routines
+ - C.) Routines
