@@ -26,16 +26,32 @@ from a package repository.
 \\\>Basic Tools
 
  - A.) Breathing
+   \\>
 
  - B.) Falling
+   \\>
 
  - C.) Pattern setting
+   \\>
 
 
 \\\>Basic Stabalizing Patterns
 
  - A.) Sport
+   \\>
 
  - B.) Food and Water
+   \\>
 
  - C.) Routines
+   \\>
+
+\\\>Outro
+
+In the SubBranches/Folders you will find additional tools and techniques. 
+
+
+Have fun 
+
+
+Lia
